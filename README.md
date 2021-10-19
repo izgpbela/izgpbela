@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @izgpbela
-- 👀 I’m interested in Programação and UX/UI Designer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in schedule and UX/UI Designer
+- 🌱 I’m currently learning schedule
+- 💞️ I’m looking to collaborate on Internship
+- 📫 How to reach me pereiraizabela21@gmail.com 
 
 <!---
 izgpbela/izgpbela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
