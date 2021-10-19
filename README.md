@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izgpbela
-- 👀 I’m interested in schedule and UX/UI Designer
-- 🌱 I’m currently learning schedule
+- 👀 I’m interested in programmer and UX/UI Designer
+- 🌱 I’m currently learning system programmer
 - 💞️ I’m looking to collaborate on Internship
 - 📫 How to reach me pereiraizabela21@gmail.com 
 
