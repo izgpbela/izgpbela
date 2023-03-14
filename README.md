@@ -1,4 +1,4 @@
-### Hi 👋 I´m Izabela
+### Hi 👋 I´m Izabela Gomes Pereira
 
 <div> <a href="https://github.com/izgpbela"> 
 
