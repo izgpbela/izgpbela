@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou Izabela
+### Hi 👋 I´m Izabela
 
 <div> <a href="https://github.com/izgpbela"> 
 
