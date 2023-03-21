@@ -11,9 +11,9 @@
 
 <div align="center"> 
 <a href="https://instagram.com/izgpbela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://youtube.com/@izabelapereira20![image](https://user-images.githubusercontent.com/92803206/226694779-4896c475-e902-4132-ae0d-967dc8fe9ac8.png)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://youtube.com/@izabelapereira20" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:izgpbela.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/izabela-gomes-pereira-0a2b31213![image](https://user-images.githubusercontent.com/92803206/226695169-97087870-9a76-41f2-a2af-1ab17d0a0a83.png)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/izabela-gomes-pereira-0a2b31213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Main skills:
