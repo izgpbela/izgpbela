@@ -16,6 +16,36 @@
 <a href="https://www.linkedin.com/in/izabela-gomes-pereira-0a2b31213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+ ## My Stacks Laguange 
+ 
+<div  display="flex" , align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,php,java,nodejs,cs,docker" />
+  </a>
+
+</p>
+</div>
+  <br></br>
+  
+  ## Banco de dados
+<div  display="flex" , align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,aws" />
+  </a>
+</p>
+
+
+  ## Framework 
+  <div  display="flex" , align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel,react,angular,tailwind,bootstrap" />
+  </a>
+</p>
+</div>
+<br></br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=120&section=footer"/>
