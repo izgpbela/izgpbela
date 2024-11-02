@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/izabela-gomes-pereira-0a2b31213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- ## My Stacks Laguange 
+ ## My language stacks
  
 <div  display="flex" , align="center"> 
 <p align="center">
